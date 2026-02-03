@@ -17,6 +17,23 @@ Contoh:
   -> Artinya lagunya adem, calm, cozy.
 
 ## Danceoffs
+
+Dance-offs itu kompetisi adu menari.  
+
+Biasanya dipakai buat situasi:
+- Dua orang atau dua grup saling menantang menari.
+- Bergantian nunjukin skill, siapa yang paling keren.
+- Bisa serius (Battle dance) atau santai/lucu.
+
+Contoh konteks:
+- "They settled the argument with a dance-off."
+  -> Mereka menyelesaikan debat dengan adu menari.
+
+Padanan paling dekat di bahasa Indonesia:
+- Adu dance
+- Battle dance
+- Tantangan menari
+
 ## Citywide
 ## Outbreaks
 ## Due
@@ -35,3 +52,4 @@ Contoh:
 ## Evil
 ## Genuin
 ## wilingness to life
+## Settled
