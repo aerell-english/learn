@@ -82,3 +82,19 @@ Singkatnya:
 ## Policy
 ## Blackout
 ## Event
+
+## I need your eyes on the crime scene
+## Occurs (Across America)
+## Across
+## Captured by the suspect
+## Suspect
+## Captured
+## Attempt
+## Comes up against unknown threats
+## Disposal
+## Confront (Will she confront the threats head on)
+## Encounter
+## Impending
+## Doom
+## Parry
+## Opponent's
