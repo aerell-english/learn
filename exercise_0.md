@@ -14,9 +14,11 @@
 7. He needs a uniform for school.
 
 8. I heard a unusual sound outside. (X)
+Corret: I heard an unusual sound outside.
 
 9. They are building a house near the river.
 
 10. She gave me a honest answer. (X)
+Corret: She gave me an honest answer.
 
 Score: 8 / 10
