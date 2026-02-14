@@ -1,4 +1,4 @@
-# Exercise 2 (Not Full Correction Yet)
+# Exercise 2
 
 1. Seekor kucing berjalan melalui pipa.
 A cat walked across a pipe (Missing period '.')
@@ -16,5 +16,7 @@ A 5 sheep has be a rendang and 10 more, escape.
 
 5. Dia jawa.
 He's a javanese.
+(Etnis biasa nya adjective jadi tanpa a pake is)
+(Corret: He's Javanese)
 
 Score: 6/10
